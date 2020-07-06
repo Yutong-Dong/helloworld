@@ -32,5 +32,5 @@ namespace RectangleApplication
             r.Display();
             Console.ReadLine();
         }
-    }
+  }
 }
